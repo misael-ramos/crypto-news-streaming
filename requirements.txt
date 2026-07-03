@@ -1,0 +1,7 @@
+kafka-python==3.0.7
+feedparser==6.0.12
+vaderSentiment==3.3.2
+requests==2.32.5
+pyspark==4.0.3
+boto3==1.42.97
+python-dotenv==1.2.1
